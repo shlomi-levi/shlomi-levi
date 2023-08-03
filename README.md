@@ -40,6 +40,6 @@ Queues and more.
 
 - **Assembler Project In C**: I have written an assembler project in C, for a pseudo assembly language, as a part of the course 'Workshop In C' in the Open University.
 
-- **Open University Auto-Login**: I have created a Chrome extension (written in TypeScript) that allows you to save your login details for the Open University's website, and then logs you in automatically each time you enter the university's website.
+- **Open University Auto-Login**: I have created a Chrome extension (written in TypeScript) that allows a user to save his login details for the Open University's website, and then logs him in automatically each time he enters the university's website.
 
 - **Four In A Row (JavaFX)**: A small game that I had implemented in JavaFX as a part of the course 'Advanced Programming In Java' in the Open University.
