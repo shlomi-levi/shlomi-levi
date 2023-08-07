@@ -1,7 +1,7 @@
 
 # Hi there, I'm Shlomi! 👋
 
-Welcome to my GitHub profile! I'm an aspiring back-end developer, currently pursuing a bachelor's degree in Computer Science at the Open University of Israel.
+Welcome to my GitHub profile! I'm an aspiring software developer, currently pursuing a bachelor's degree in Computer Science at the Open University of Israel.
 
 ## 💻 Tech Stack
 
