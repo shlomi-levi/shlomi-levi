@@ -21,7 +21,7 @@ Here's a quick overview of the technologies I work with:
 
 Here's a quick overview of the projects I've written:
 
-- **Data Structures Implementations in C** (work in progress): A C based project that contains implementations for several common data structures, including linked lists, binary trees, Stacks, 
+- **Data Structures Implementations in C**: A C based project that contains implementations for several common data structures, including linked lists, binary trees, Stacks, 
 Queues and more.
 
 - **Assembler Project In C**: I have written an assembler project in C, for a pseudo assembly language, as a part of the course 'Workshop In C' in the Open University.
